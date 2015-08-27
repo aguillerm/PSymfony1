@@ -1,0 +1,4 @@
+services:
+#    ag_bet.example:
+#        class: AG\BetBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

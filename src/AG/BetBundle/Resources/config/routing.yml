@@ -1,0 +1,7 @@
+ag_bet_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AGBetBundle:Default:index }
+
+hello:
+    path:     /hello-world
+    defaults: { _controller: AGBetBundle:Advert:index }
